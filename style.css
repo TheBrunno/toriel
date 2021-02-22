@@ -1,1 +1,25 @@
 @import url('https://fonts.googleapis.com/css2?family=Ballet&family=Raleway:ital,wght@0,100;0,300;1,100;1,900&display=swap');
+
+*{
+    margin:0;
+    padding:0;
+}
+
+.navigation{
+    background-color: #961d1d;
+    text-align: center;
+    padding: 20px;
+}
+
+.navigation a{
+    color:rgb(252, 252, 252);
+    text-decoration: none;  
+    margin: 0 60px 0 0;
+    font-size: 20px;
+    font-family: 'Raleway';
+}
+
+#home-nav{
+    text-align: left;
+    margin: 0 500px 0 0;
+}
