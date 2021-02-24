@@ -11,6 +11,10 @@ body{
 .navigation{
     background-color: #961d1d;
     padding: 20px;
+    width: 100%;
+    position: fixed;
+    margin-top: -6.3em;
+
 }
 
 .navigation a{
@@ -31,7 +35,7 @@ body{
     color: #141414;
 }
 .title > h1{
-    margin: 20px 0;
+    margin: 100px 0 20px 0;
     font-size:40px;
 }
 .text{
