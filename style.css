@@ -7,9 +7,10 @@
 }
 body{
     text-align: center;
+    font-family: 'Raleway';
 }
 .navigation{
-    background-color: #961d1d;
+    background-color: #feb400;
     padding: 20px;
     width: 100%;
     position: fixed;
@@ -23,15 +24,14 @@ body{
     margin: 0 60px 0 0;
     font-size: 20px;
     font-weight: bold;
-    font-family: 'Raleway';
 }
 
-#home-nav{
-    text-align: left;
-    margin: 0 500px 0 0;
+.pag{
+    background-color: #ffc73a;
+    border-radius: 5px;
+    padding: 10px;
 }
 .title{
-    font-family: Raleway;
     color: #141414;
 }
 .title > h1{
@@ -39,7 +39,6 @@ body{
     font-size:40px;
 }
 .text{
-    font-family: Raleway;
     text-align: left;
     margin: 50px 50px 0 50px;
     font-size: 20px;
@@ -48,10 +47,29 @@ body{
     margin: 0 0 20px 0;
 }
 #troll{
-    color: #961d1d;
+    color: #feb400;
     cursor: pointer;
     text-decoration: underline;
 }
 .toriel{
-    color: #961d1d;
+    color: #feb400;
+}
+.imagem-coding > img{
+    height: 500px;
+    margin: 40px 0;
+}
+.invisible-text{
+    color: #fff;
+    font-size:20px;
+}
+.icons-downloader img{
+    width: 150px;
+    margin: 50px;
+}
+.creditos{
+    margin: 0 0 20px 0;
+}
+#home{
+    text-align: left;
+    margin: 0 500px 0 0;
 }
