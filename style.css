@@ -10,7 +10,7 @@ body{
     font-family: 'Raleway';
 }
 .navigation{
-    background-color: #feb400;
+    background-color: #8c50ff;
     padding: 20px;
     width: 100%;
     position: fixed;
@@ -27,7 +27,7 @@ body{
 }
 
 .pag{
-    background-color: #ffc73a;
+    background-color: #7f49e2;
     border-radius: 5px;
     padding: 10px;
 }
@@ -46,13 +46,13 @@ body{
 .text > p{
     margin: 0 0 20px 0;
 }
+.text a{
+    color: #8c50ff;
+}
 #troll{
-    color: #feb400;
+    color: #8c50ff;
     cursor: pointer;
     text-decoration: underline;
-}
-.toriel{
-    color: #feb400;
 }
 .imagem-coding > img{
     height: 500px;
@@ -61,6 +61,7 @@ body{
 .invisible-text{
     color: #fff;
     font-size:20px;
+    margin: 30px 0;
 }
 .icons-downloader img{
     width: 150px;
@@ -72,4 +73,24 @@ body{
 #home{
     text-align: left;
     margin: 0 500px 0 0;
+}
+.color-pre{
+    color: #8c50ff;
+}
+.bold{
+    font-weight: 900;
+}
+.dica-um{
+    border: 1px #272727 solid;
+    padding: 10px;
+    font-size: 40px;
+    color: #141414;
+    width: max-content;
+    margin: 20px auto;
+}
+.second-title{
+    font-size: 25px;
+}
+#exemplohome{
+    font-size: 30px;
 }
